@@ -1,0 +1,9 @@
+// config.json
+{
+  "development": {
+    "mongoURL": "mongodb://localhost:27017/coolapp_development"
+  },
+  "test": {
+    "mongoURL": "mongodb://localhost:27017/coolapp_test"
+  }
+}
